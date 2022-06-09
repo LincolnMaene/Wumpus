@@ -1,0 +1,5 @@
+﻿  wumpus.c
+C:\Users\Lincoln Maene\Desktop\GitHub tings\Wumpus\wumpus.c(242,9): warning C4033: 'create_adjency' must return a value
+C:\Users\Lincoln Maene\Desktop\GitHub tings\Wumpus\wumpus.c(389,19): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lincoln Maene\Desktop\GitHub tings\Wumpus\wumpus.c(271): warning C4715: 'create_adjency': not all control paths return a value
+  Wumpus.vcxproj -> C:\Users\Lincoln Maene\source\repos\Wumpus\x64\Debug\Wumpus.exe
